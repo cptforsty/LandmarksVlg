@@ -10,3 +10,4 @@ C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netst
 C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.dll
 C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.pdb
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.csprojAssemblyReference.cache

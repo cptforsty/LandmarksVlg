@@ -2339,11 +2339,23 @@ namespace Landmarks34.Droid
 			// aapt resource value: 0x7F090053
 			public const int abc_vector_test = 2131296339;
 			
+			// aapt resource value: 0x7F010002
+			public const int akv199 = 2130771970;
+			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
 			
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
+			
+			// aapt resource value: 0x7F010003
+			public const int beels55 = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int been122 = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int bogosl155 = 2130771973;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -2363,8 +2375,17 @@ namespace Landmarks34.Droid
 			// aapt resource value: 0x7F09005B
 			public const int design_snackbar_background = 2131296347;
 			
-			// aapt resource value: 0x7F010002
-			public const int gidr55 = 2130771970;
+			// aapt resource value: 0x7F010006
+			public const int doom_kk = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int dr145 = 2130771975;
+			
+			// aapt resource value: 0x7F010008
+			public const int fon286 = 2130771976;
+			
+			// aapt resource value: 0x7F010009
+			public const int gidr55 = 2130771977;
 			
 			// aapt resource value: 0x7F090054
 			public const int ic_audiotrack_dark = 2131296340;
@@ -2897,6 +2918,12 @@ namespace Landmarks34.Droid
 			// aapt resource value: 0x7F090104
 			public const int ic_vol_type_tv_light = 2131296516;
 			
+			// aapt resource value: 0x7F010010
+			public const int leer111 = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int lveenger = 2130771985;
+			
 			// aapt resource value: 0x7F090105
 			public const int mr_button_connected_dark = 2131296517;
 			
@@ -2996,14 +3023,29 @@ namespace Landmarks34.Droid
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
+			// aapt resource value: 0x7F010012
+			public const int peels = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int peerv_tr = 2130771987;
+			
+			// aapt resource value: 0x7F010014
+			public const int plos155 = 2130771988;
+			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;
 			
 			// aapt resource value: 0x7F09006A
 			public const int tooltip_frame_light = 2131296362;
 			
-			// aapt resource value: 0x7F010003
-			public const int volges = 2130771971;
+			// aapt resource value: 0x7F010015
+			public const int vees2 = 2130771989;
+			
+			// aapt resource value: 0x7F010016
+			public const int volg999 = 2130771990;
+			
+			// aapt resource value: 0x7F010017
+			public const int volges = 2130771991;
 			
 			static Drawable()
 			{

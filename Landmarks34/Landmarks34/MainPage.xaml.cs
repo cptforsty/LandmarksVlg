@@ -14,8 +14,27 @@ namespace Landmarks34
             InitializeComponent();
 
             Title = "Достопримечательности города Волжский";
+
+            //Добавление строк достопримечательностей
             CreateNewLandmarks("Волжская ГЭС", "volges.jpg");
-            CreateNewLandmarks("Парк Гидростроитель", "gidr55.jpg");
+            CreateNewLandmarks("Парк «Гидростроитель»", "gidr55.jpg");
+            CreateNewLandmarks("Площадь и памятник Ленина", "plos155.jpg");
+            CreateNewLandmarks("Военный мемориал", "been122.jpg");
+
+            CreateNewLandmarks("Старая мельница", "volg999.jpg");
+            CreateNewLandmarks("Картинная галерея «Старая школа»", "leer111.jpg");
+            CreateNewLandmarks("Храм Иоанна Богослова", "bogosl155.jpg");
+            CreateNewLandmarks("Памятник первому трамваю города Волжский", "peerv_tr.jpg");
+            CreateNewLandmarks("Историко-краеведческий музей", "dr145.jpg");
+            CreateNewLandmarks("Дом культуры «Октябрь»", "doom_kk.jpg");
+            CreateNewLandmarks("Памятник первостроителям Сталинградской ГЭС и города Волжского", "vees2.jpg");
+            CreateNewLandmarks("Выставочный зал имени Г.В.Черноскутова", "peels.jpg");
+            CreateNewLandmarks("Драматический театр", "beels55.jpg");
+            CreateNewLandmarks("Фонтанная улица", "fon286.jpg");
+            CreateNewLandmarks("Мастерская скульптора Петра Лукича Малкова", "lveenger.jpg");
+            CreateNewLandmarks("Аква-парк «21 век»", "akv199.jpg");
+
+
         }
 
         private async void ToCommonPage(object sender, EventArgs e)

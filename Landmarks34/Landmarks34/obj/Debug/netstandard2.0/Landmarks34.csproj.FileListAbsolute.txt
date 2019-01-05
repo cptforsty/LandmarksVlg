@@ -1,0 +1,12 @@
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\bin\Debug\netstandard2.0\Landmarks34.deps.json
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\bin\Debug\netstandard2.0\Landmarks34.dll
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\bin\Debug\netstandard2.0\Landmarks34.pdb
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.csproj.CoreCompileInputs.cache
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.AssemblyInfoInputs.cache
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.AssemblyInfo.cs
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.dll
+C:\Users\Frosty\source\repos\Landmarks34\Landmarks34\Landmarks34\obj\Debug\netstandard2.0\Landmarks34.pdb

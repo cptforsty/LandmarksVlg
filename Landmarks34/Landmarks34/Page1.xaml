@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Landmarks34.Page1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout x:Name="stackContentPage" Margin="20,0,20,0">
+                <Image Grid.Column="0" x:Name="ImagePage"/>
+                <Label x:Name="NamePage" FontSize="22"/>
+                <Label x:Name="ContentPage"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
